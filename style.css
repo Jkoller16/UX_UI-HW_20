@@ -93,12 +93,17 @@
     .container h1{
       text-align: center;
       text-decoration: underline mediumorchid;
+      font-family: 'Catamaran', sans-serif;
     }
 
       body{
           position: relative;
       }
     
+    /* .media-body {
+      font-family: 'Catamaran', sans-serif;
+    } */
+
     .centeredmaincontent p {
           margin: auto;
           margin-top: 80px;
